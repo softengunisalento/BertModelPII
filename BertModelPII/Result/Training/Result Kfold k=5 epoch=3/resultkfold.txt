@@ -1,0 +1,407 @@
+
+Training on fold 1/5...
+
+Epoch: 0001/0003 | Batch 0000/1082 | Loss: 0.7330
+Epoch: 0001/0003 | Batch 0050/1082 | Loss: 0.0061
+Epoch: 0001/0003 | Batch 0100/1082 | Loss: 0.0027
+Epoch: 0001/0003 | Batch 0150/1082 | Loss: 0.0015
+Epoch: 0001/0003 | Batch 0200/1082 | Loss: 0.0020
+Epoch: 0001/0003 | Batch 0250/1082 | Loss: 0.0054
+Epoch: 0001/0003 | Batch 0300/1082 | Loss: 0.0013
+Epoch: 0001/0003 | Batch 0350/1082 | Loss: 0.0004
+Epoch: 0001/0003 | Batch 0400/1082 | Loss: 0.0020
+Epoch: 0001/0003 | Batch 0450/1082 | Loss: 0.0030
+Epoch: 0001/0003 | Batch 0500/1082 | Loss: 0.0002
+Epoch: 0001/0003 | Batch 0550/1082 | Loss: 0.0006
+Epoch: 0001/0003 | Batch 0600/1082 | Loss: 0.0001
+Epoch: 0001/0003 | Batch 0650/1082 | Loss: 0.0007
+Epoch: 0001/0003 | Batch 0700/1082 | Loss: 0.0001
+Epoch: 0001/0003 | Batch 0750/1082 | Loss: 0.0001
+Epoch: 0001/0003 | Batch 0800/1082 | Loss: 0.0024
+Epoch: 0001/0003 | Batch 0850/1082 | Loss: 0.0343
+Epoch: 0001/0003 | Batch 0900/1082 | Loss: 0.0004
+Epoch: 0001/0003 | Batch 0950/1082 | Loss: 0.0001
+Epoch: 0001/0003 | Batch 1000/1082 | Loss: 0.0001
+Epoch: 0001/0003 | Batch 1050/1082 | Loss: 0.0002
+Epoch: 0001/0003 | Training Loss: 0.0144 | No validation step in this epoch.
+Time elapsed: 10.22 min
+Epoch: 0002/0003 | Batch 0000/1082 | Loss: 0.0002
+Epoch: 0002/0003 | Batch 0050/1082 | Loss: 0.0001
+Epoch: 0002/0003 | Batch 0100/1082 | Loss: 0.0014
+Epoch: 0002/0003 | Batch 0150/1082 | Loss: 0.0001
+Epoch: 0002/0003 | Batch 0200/1082 | Loss: 0.0001
+Epoch: 0002/0003 | Batch 0250/1082 | Loss: 0.0000
+Epoch: 0002/0003 | Batch 0300/1082 | Loss: 0.0043
+Epoch: 0002/0003 | Batch 0350/1082 | Loss: 0.0011
+Epoch: 0002/0003 | Batch 0400/1082 | Loss: 0.0154
+Epoch: 0002/0003 | Batch 0450/1082 | Loss: 0.0000
+Epoch: 0002/0003 | Batch 0500/1082 | Loss: 0.0003
+Epoch: 0002/0003 | Batch 0550/1082 | Loss: 0.0004
+Epoch: 0002/0003 | Batch 0600/1082 | Loss: 0.0001
+Epoch: 0002/0003 | Batch 0650/1082 | Loss: 0.0026
+Epoch: 0002/0003 | Batch 0700/1082 | Loss: 0.0000
+Epoch: 0002/0003 | Batch 0750/1082 | Loss: 0.0001
+Epoch: 0002/0003 | Batch 0800/1082 | Loss: 0.0001
+Epoch: 0002/0003 | Batch 0850/1082 | Loss: 0.0000
+Epoch: 0002/0003 | Batch 0900/1082 | Loss: 0.0000
+Epoch: 0002/0003 | Batch 0950/1082 | Loss: 0.0004
+Epoch: 0002/0003 | Batch 1000/1082 | Loss: 0.0004
+Epoch: 0002/0003 | Batch 1050/1082 | Loss: 0.0005
+Epoch: 0002/0003 | Training Loss: 0.0028 | No validation step in this epoch.
+Time elapsed: 20.61 min
+Epoch: 0003/0003 | Batch 0000/1082 | Loss: 0.0001
+Epoch: 0003/0003 | Batch 0050/1082 | Loss: 0.0001
+Epoch: 0003/0003 | Batch 0100/1082 | Loss: 0.0000
+Epoch: 0003/0003 | Batch 0150/1082 | Loss: 0.0000
+Epoch: 0003/0003 | Batch 0200/1082 | Loss: 0.0000
+Epoch: 0003/0003 | Batch 0250/1082 | Loss: 0.0000
+Epoch: 0003/0003 | Batch 0300/1082 | Loss: 0.0017
+Epoch: 0003/0003 | Batch 0350/1082 | Loss: 0.0002
+Epoch: 0003/0003 | Batch 0400/1082 | Loss: 0.0000
+Epoch: 0003/0003 | Batch 0450/1082 | Loss: 0.0000
+Epoch: 0003/0003 | Batch 0500/1082 | Loss: 0.0001
+Epoch: 0003/0003 | Batch 0550/1082 | Loss: 0.0000
+Epoch: 0003/0003 | Batch 0600/1082 | Loss: 0.0001
+Epoch: 0003/0003 | Batch 0650/1082 | Loss: 0.0007
+Epoch: 0003/0003 | Batch 0700/1082 | Loss: 0.0001
+Epoch: 0003/0003 | Batch 0750/1082 | Loss: 0.0000
+Epoch: 0003/0003 | Batch 0800/1082 | Loss: 0.0000
+Epoch: 0003/0003 | Batch 0850/1082 | Loss: 0.0000
+Epoch: 0003/0003 | Batch 0900/1082 | Loss: 0.0000
+Epoch: 0003/0003 | Batch 0950/1082 | Loss: 0.0000
+Epoch: 0003/0003 | Batch 1000/1082 | Loss: 0.0000
+Epoch: 0003/0003 | Batch 1050/1082 | Loss: 0.0003
+Epoch: 0003/0003 | Training Loss: 0.0020 | No validation step in this epoch.
+Time elapsed: 31.39 min
+Total Training Time: 31.39 min
+Test Accuracy: 99.91908%
+Precision: 0.99919
+Recall: 0.99919
+F1-Score: 0.99919
+AUC-ROC: 0.99919
+Average Loss: 0.0030
+Training on fold 2/5...
+
+Epoch: 0001/0003 | Batch 0000/1082 | Loss: 0.7243
+Epoch: 0001/0003 | Batch 0050/1082 | Loss: 0.0178
+Epoch: 0001/0003 | Batch 0100/1082 | Loss: 0.0076
+Epoch: 0001/0003 | Batch 0150/1082 | Loss: 0.0166
+Epoch: 0001/0003 | Batch 0200/1082 | Loss: 0.0108
+Epoch: 0001/0003 | Batch 0250/1082 | Loss: 0.0907
+Epoch: 0001/0003 | Batch 0300/1082 | Loss: 0.0017
+Epoch: 0001/0003 | Batch 0350/1082 | Loss: 0.0008
+Epoch: 0001/0003 | Batch 0400/1082 | Loss: 0.0009
+Epoch: 0001/0003 | Batch 0450/1082 | Loss: 0.0245
+Epoch: 0001/0003 | Batch 0500/1082 | Loss: 0.0173
+Epoch: 0001/0003 | Batch 0550/1082 | Loss: 0.0003
+Epoch: 0001/0003 | Batch 0600/1082 | Loss: 0.0003
+Epoch: 0001/0003 | Batch 0650/1082 | Loss: 0.0009
+Epoch: 0001/0003 | Batch 0700/1082 | Loss: 0.0507
+Epoch: 0001/0003 | Batch 0750/1082 | Loss: 0.0391
+Epoch: 0001/0003 | Batch 0800/1082 | Loss: 0.0214
+Epoch: 0001/0003 | Batch 0850/1082 | Loss: 0.0002
+Epoch: 0001/0003 | Batch 0900/1082 | Loss: 0.0072
+Epoch: 0001/0003 | Batch 0950/1082 | Loss: 0.0020
+Epoch: 0001/0003 | Batch 1000/1082 | Loss: 0.0003
+Epoch: 0001/0003 | Batch 1050/1082 | Loss: 0.0017
+Epoch: 0001/0003 | Training Loss: 0.0142 | No validation step in this epoch.
+Time elapsed: 10.28 min
+Epoch: 0002/0003 | Batch 0000/1082 | Loss: 0.0018
+Epoch: 0002/0003 | Batch 0050/1082 | Loss: 0.0002
+Epoch: 0002/0003 | Batch 0100/1082 | Loss: 0.0000
+Epoch: 0002/0003 | Batch 0150/1082 | Loss: 0.0002
+Epoch: 0002/0003 | Batch 0200/1082 | Loss: 0.0000
+Epoch: 0002/0003 | Batch 0250/1082 | Loss: 0.0001
+Epoch: 0002/0003 | Batch 0300/1082 | Loss: 0.0001
+Epoch: 0002/0003 | Batch 0350/1082 | Loss: 0.0057
+Epoch: 0002/0003 | Batch 0400/1082 | Loss: 0.0001
+Epoch: 0002/0003 | Batch 0450/1082 | Loss: 0.0000
+Epoch: 0002/0003 | Batch 0500/1082 | Loss: 0.0001
+Epoch: 0002/0003 | Batch 0550/1082 | Loss: 0.0000
+Epoch: 0002/0003 | Batch 0600/1082 | Loss: 0.0001
+Epoch: 0002/0003 | Batch 0650/1082 | Loss: 0.0001
+Epoch: 0002/0003 | Batch 0700/1082 | Loss: 0.0000
+Epoch: 0002/0003 | Batch 0750/1082 | Loss: 0.0000
+Epoch: 0002/0003 | Batch 0800/1082 | Loss: 0.0000
+Epoch: 0002/0003 | Batch 0850/1082 | Loss: 0.0000
+Epoch: 0002/0003 | Batch 0900/1082 | Loss: 0.0000
+Epoch: 0002/0003 | Batch 0950/1082 | Loss: 0.0000
+Epoch: 0002/0003 | Batch 1000/1082 | Loss: 0.0016
+Epoch: 0002/0003 | Batch 1050/1082 | Loss: 0.0001
+Epoch: 0002/0003 | Training Loss: 0.0025 | No validation step in this epoch.
+Time elapsed: 20.61 min
+Epoch: 0003/0003 | Batch 0000/1082 | Loss: 0.0004
+Epoch: 0003/0003 | Batch 0050/1082 | Loss: 0.0001
+Epoch: 0003/0003 | Batch 0100/1082 | Loss: 0.0022
+Epoch: 0003/0003 | Batch 0150/1082 | Loss: 0.0001
+Epoch: 0003/0003 | Batch 0200/1082 | Loss: 0.0001
+Epoch: 0003/0003 | Batch 0250/1082 | Loss: 0.0020
+Epoch: 0003/0003 | Batch 0300/1082 | Loss: 0.0047
+Epoch: 0003/0003 | Batch 0350/1082 | Loss: 0.0000
+Epoch: 0003/0003 | Batch 0400/1082 | Loss: 0.0000
+Epoch: 0003/0003 | Batch 0450/1082 | Loss: 0.0033
+Epoch: 0003/0003 | Batch 0500/1082 | Loss: 0.0003
+Epoch: 0003/0003 | Batch 0550/1082 | Loss: 0.0000
+Epoch: 0003/0003 | Batch 0600/1082 | Loss: 0.0000
+Epoch: 0003/0003 | Batch 0650/1082 | Loss: 0.0001
+Epoch: 0003/0003 | Batch 0700/1082 | Loss: 0.0002
+Epoch: 0003/0003 | Batch 0750/1082 | Loss: 0.0013
+Epoch: 0003/0003 | Batch 0800/1082 | Loss: 0.0003
+Epoch: 0003/0003 | Batch 0850/1082 | Loss: 0.0000
+Epoch: 0003/0003 | Batch 0900/1082 | Loss: 0.0001
+Epoch: 0003/0003 | Batch 0950/1082 | Loss: 0.0002
+Epoch: 0003/0003 | Batch 1000/1082 | Loss: 0.0032
+Epoch: 0003/0003 | Batch 1050/1082 | Loss: 0.0009
+Epoch: 0003/0003 | Training Loss: 0.0019 | No validation step in this epoch.
+Time elapsed: 30.78 min
+Total Training Time: 30.78 min
+Test Accuracy: 99.85549%
+Precision: 0.99856
+Recall: 0.99855
+F1-Score: 0.99855
+AUC-ROC: 0.99856
+Average Loss: 0.0059
+Training on fold 3/5...
+
+Epoch: 0001/0003 | Batch 0000/1082 | Loss: 0.7794
+Epoch: 0001/0003 | Batch 0050/1082 | Loss: 0.0056
+Epoch: 0001/0003 | Batch 0100/1082 | Loss: 0.0017
+Epoch: 0001/0003 | Batch 0150/1082 | Loss: 0.0046
+Epoch: 0001/0003 | Batch 0200/1082 | Loss: 0.0280
+Epoch: 0001/0003 | Batch 0250/1082 | Loss: 0.0003
+Epoch: 0001/0003 | Batch 0300/1082 | Loss: 0.0356
+Epoch: 0001/0003 | Batch 0350/1082 | Loss: 0.0014
+Epoch: 0001/0003 | Batch 0400/1082 | Loss: 0.0909
+Epoch: 0001/0003 | Batch 0450/1082 | Loss: 0.0064
+Epoch: 0001/0003 | Batch 0500/1082 | Loss: 0.0020
+Epoch: 0001/0003 | Batch 0550/1082 | Loss: 0.0003
+Epoch: 0001/0003 | Batch 0600/1082 | Loss: 0.0080
+Epoch: 0001/0003 | Batch 0650/1082 | Loss: 0.0073
+Epoch: 0001/0003 | Batch 0700/1082 | Loss: 0.0003
+Epoch: 0001/0003 | Batch 0750/1082 | Loss: 0.0001
+Epoch: 0001/0003 | Batch 0800/1082 | Loss: 0.0065
+Epoch: 0001/0003 | Batch 0850/1082 | Loss: 0.0002
+Epoch: 0001/0003 | Batch 0900/1082 | Loss: 0.0277
+Epoch: 0001/0003 | Batch 0950/1082 | Loss: 0.0003
+Epoch: 0001/0003 | Batch 1000/1082 | Loss: 0.0013
+Epoch: 0001/0003 | Batch 1050/1082 | Loss: 0.0001
+Epoch: 0001/0003 | Training Loss: 0.0145 | No validation step in this epoch.
+Time elapsed: 10.18 min
+Epoch: 0002/0003 | Batch 0000/1082 | Loss: 0.0008
+Epoch: 0002/0003 | Batch 0050/1082 | Loss: 0.0012
+Epoch: 0002/0003 | Batch 0100/1082 | Loss: 0.0001
+Epoch: 0002/0003 | Batch 0150/1082 | Loss: 0.0000
+Epoch: 0002/0003 | Batch 0200/1082 | Loss: 0.0000
+Epoch: 0002/0003 | Batch 0250/1082 | Loss: 0.0000
+Epoch: 0002/0003 | Batch 0300/1082 | Loss: 0.0000
+Epoch: 0002/0003 | Batch 0350/1082 | Loss: 0.0002
+Epoch: 0002/0003 | Batch 0400/1082 | Loss: 0.0001
+Epoch: 0002/0003 | Batch 0450/1082 | Loss: 0.0000
+Epoch: 0002/0003 | Batch 0500/1082 | Loss: 0.0002
+Epoch: 0002/0003 | Batch 0550/1082 | Loss: 0.0000
+Epoch: 0002/0003 | Batch 0600/1082 | Loss: 0.0002
+Epoch: 0002/0003 | Batch 0650/1082 | Loss: 0.0001
+Epoch: 0002/0003 | Batch 0700/1082 | Loss: 0.0058
+Epoch: 0002/0003 | Batch 0750/1082 | Loss: 0.0016
+Epoch: 0002/0003 | Batch 0800/1082 | Loss: 0.0000
+Epoch: 0002/0003 | Batch 0850/1082 | Loss: 0.0027
+Epoch: 0002/0003 | Batch 0900/1082 | Loss: 0.0000
+Epoch: 0002/0003 | Batch 0950/1082 | Loss: 0.0001
+Epoch: 0002/0003 | Batch 1000/1082 | Loss: 0.0001
+Epoch: 0002/0003 | Batch 1050/1082 | Loss: 0.0001
+Epoch: 0002/0003 | Training Loss: 0.0027 | No validation step in this epoch.
+Time elapsed: 20.37 min
+Epoch: 0003/0003 | Batch 0000/1082 | Loss: 0.0123
+Epoch: 0003/0003 | Batch 0050/1082 | Loss: 0.0000
+Epoch: 0003/0003 | Batch 0100/1082 | Loss: 0.0002
+Epoch: 0003/0003 | Batch 0150/1082 | Loss: 0.0015
+Epoch: 0003/0003 | Batch 0200/1082 | Loss: 0.0001
+Epoch: 0003/0003 | Batch 0250/1082 | Loss: 0.0019
+Epoch: 0003/0003 | Batch 0300/1082 | Loss: 0.0001
+Epoch: 0003/0003 | Batch 0350/1082 | Loss: 0.0005
+Epoch: 0003/0003 | Batch 0400/1082 | Loss: 0.0000
+Epoch: 0003/0003 | Batch 0450/1082 | Loss: 0.0000
+Epoch: 0003/0003 | Batch 0500/1082 | Loss: 0.0000
+Epoch: 0003/0003 | Batch 0550/1082 | Loss: 0.0380
+Epoch: 0003/0003 | Batch 0600/1082 | Loss: 0.0000
+Epoch: 0003/0003 | Batch 0650/1082 | Loss: 0.0000
+Epoch: 0003/0003 | Batch 0700/1082 | Loss: 0.0000
+Epoch: 0003/0003 | Batch 0750/1082 | Loss: 0.0000
+Epoch: 0003/0003 | Batch 0800/1082 | Loss: 0.0000
+Epoch: 0003/0003 | Batch 0850/1082 | Loss: 0.0000
+Epoch: 0003/0003 | Batch 0900/1082 | Loss: 0.0147
+Epoch: 0003/0003 | Batch 0950/1082 | Loss: 0.0047
+Epoch: 0003/0003 | Batch 1000/1082 | Loss: 0.0000
+Epoch: 0003/0003 | Batch 1050/1082 | Loss: 0.0000
+Epoch: 0003/0003 | Training Loss: 0.0025 | No validation step in this epoch.
+Time elapsed: 30.55 min
+Total Training Time: 30.55 min
+Test Accuracy: 98.90751%
+Precision: 0.98931
+Recall: 0.98908
+F1-Score: 0.98907
+AUC-ROC: 0.98912
+Average Loss: 0.0317
+Training on fold 4/5...
+
+Epoch: 0001/0003 | Batch 0000/1082 | Loss: 0.7398
+Epoch: 0001/0003 | Batch 0050/1082 | Loss: 0.0028
+Epoch: 0001/0003 | Batch 0100/1082 | Loss: 0.0018
+Epoch: 0001/0003 | Batch 0150/1082 | Loss: 0.0038
+Epoch: 0001/0003 | Batch 0200/1082 | Loss: 0.0545
+Epoch: 0001/0003 | Batch 0250/1082 | Loss: 0.0006
+Epoch: 0001/0003 | Batch 0300/1082 | Loss: 0.0075
+Epoch: 0001/0003 | Batch 0350/1082 | Loss: 0.0340
+Epoch: 0001/0003 | Batch 0400/1082 | Loss: 0.0777
+Epoch: 0001/0003 | Batch 0450/1082 | Loss: 0.0020
+Epoch: 0001/0003 | Batch 0500/1082 | Loss: 0.0370
+Epoch: 0001/0003 | Batch 0550/1082 | Loss: 0.0002
+Epoch: 0001/0003 | Batch 0600/1082 | Loss: 0.0008
+Epoch: 0001/0003 | Batch 0650/1082 | Loss: 0.0087
+Epoch: 0001/0003 | Batch 0700/1082 | Loss: 0.0028
+Epoch: 0001/0003 | Batch 0750/1082 | Loss: 0.0066
+Epoch: 0001/0003 | Batch 0800/1082 | Loss: 0.0157
+Epoch: 0001/0003 | Batch 0850/1082 | Loss: 0.0065
+Epoch: 0001/0003 | Batch 0900/1082 | Loss: 0.0008
+Epoch: 0001/0003 | Batch 0950/1082 | Loss: 0.0001
+Epoch: 0001/0003 | Batch 1000/1082 | Loss: 0.0056
+Epoch: 0001/0003 | Batch 1050/1082 | Loss: 0.0001
+Epoch: 0001/0003 | Training Loss: 0.0143 | No validation step in this epoch.
+Time elapsed: 10.24 min
+Epoch: 0002/0003 | Batch 0000/1082 | Loss: 0.0008
+Epoch: 0002/0003 | Batch 0050/1082 | Loss: 0.0003
+Epoch: 0002/0003 | Batch 0100/1082 | Loss: 0.0003
+Epoch: 0002/0003 | Batch 0150/1082 | Loss: 0.0013
+Epoch: 0002/0003 | Batch 0200/1082 | Loss: 0.0002
+Epoch: 0002/0003 | Batch 0250/1082 | Loss: 0.0000
+Epoch: 0002/0003 | Batch 0300/1082 | Loss: 0.0286
+Epoch: 0002/0003 | Batch 0350/1082 | Loss: 0.0016
+Epoch: 0002/0003 | Batch 0400/1082 | Loss: 0.0002
+Epoch: 0002/0003 | Batch 0450/1082 | Loss: 0.0001
+Epoch: 0002/0003 | Batch 0500/1082 | Loss: 0.0000
+Epoch: 0002/0003 | Batch 0550/1082 | Loss: 0.0002
+Epoch: 0002/0003 | Batch 0600/1082 | Loss: 0.0021
+Epoch: 0002/0003 | Batch 0650/1082 | Loss: 0.0001
+Epoch: 0002/0003 | Batch 0700/1082 | Loss: 0.0007
+Epoch: 0002/0003 | Batch 0750/1082 | Loss: 0.0000
+Epoch: 0002/0003 | Batch 0800/1082 | Loss: 0.0008
+Epoch: 0002/0003 | Batch 0850/1082 | Loss: 0.0002
+Epoch: 0002/0003 | Batch 0900/1082 | Loss: 0.0002
+Epoch: 0002/0003 | Batch 0950/1082 | Loss: 0.0001
+Epoch: 0002/0003 | Batch 1000/1082 | Loss: 0.0000
+Epoch: 0002/0003 | Batch 1050/1082 | Loss: 0.0007
+Epoch: 0002/0003 | Training Loss: 0.0030 | No validation step in this epoch.
+Time elapsed: 20.52 min
+Epoch: 0003/0003 | Batch 0000/1082 | Loss: 0.0001
+Epoch: 0003/0003 | Batch 0050/1082 | Loss: 0.0000
+Epoch: 0003/0003 | Batch 0100/1082 | Loss: 0.0000
+Epoch: 0003/0003 | Batch 0150/1082 | Loss: 0.0000
+Epoch: 0003/0003 | Batch 0200/1082 | Loss: 0.0001
+Epoch: 0003/0003 | Batch 0250/1082 | Loss: 0.0001
+Epoch: 0003/0003 | Batch 0300/1082 | Loss: 0.0002
+Epoch: 0003/0003 | Batch 0350/1082 | Loss: 0.0001
+Epoch: 0003/0003 | Batch 0400/1082 | Loss: 0.0000
+Epoch: 0003/0003 | Batch 0450/1082 | Loss: 0.0000
+Epoch: 0003/0003 | Batch 0500/1082 | Loss: 0.0000
+Epoch: 0003/0003 | Batch 0550/1082 | Loss: 0.0000
+Epoch: 0003/0003 | Batch 0600/1082 | Loss: 0.0000
+Epoch: 0003/0003 | Batch 0650/1082 | Loss: 0.0000
+Epoch: 0003/0003 | Batch 0700/1082 | Loss: 0.0000
+Epoch: 0003/0003 | Batch 0750/1082 | Loss: 0.0000
+Epoch: 0003/0003 | Batch 0800/1082 | Loss: 0.0000
+Epoch: 0003/0003 | Batch 0850/1082 | Loss: 0.0009
+Epoch: 0003/0003 | Batch 0900/1082 | Loss: 0.0000
+Epoch: 0003/0003 | Batch 0950/1082 | Loss: 0.0005
+Epoch: 0003/0003 | Batch 1000/1082 | Loss: 0.0005
+Epoch: 0003/0003 | Batch 1050/1082 | Loss: 0.0001
+Epoch: 0003/0003 | Training Loss: 0.0031 | No validation step in this epoch.
+Time elapsed: 30.75 min
+Total Training Time: 30.75 min
+Test Accuracy: 99.84393%
+Precision: 0.99844
+Recall: 0.99844
+F1-Score: 0.99844
+AUC-ROC: 0.99844
+Average Loss: 0.0054
+Training on fold 5/5...
+
+Epoch: 0001/0003 | Batch 0000/1082 | Loss: 0.7196
+Epoch: 0001/0003 | Batch 0050/1082 | Loss: 0.0062
+Epoch: 0001/0003 | Batch 0100/1082 | Loss: 0.0029
+Epoch: 0001/0003 | Batch 0150/1082 | Loss: 0.0035
+Epoch: 0001/0003 | Batch 0200/1082 | Loss: 0.0036
+Epoch: 0001/0003 | Batch 0250/1082 | Loss: 0.0009
+Epoch: 0001/0003 | Batch 0300/1082 | Loss: 0.0003
+Epoch: 0001/0003 | Batch 0350/1082 | Loss: 0.0020
+Epoch: 0001/0003 | Batch 0400/1082 | Loss: 0.0020
+Epoch: 0001/0003 | Batch 0450/1082 | Loss: 0.0020
+Epoch: 0001/0003 | Batch 0500/1082 | Loss: 0.0005
+Epoch: 0001/0003 | Batch 0550/1082 | Loss: 0.0004
+Epoch: 0001/0003 | Batch 0600/1082 | Loss: 0.0023
+Epoch: 0001/0003 | Batch 0650/1082 | Loss: 0.0659
+Epoch: 0001/0003 | Batch 0700/1082 | Loss: 0.0008
+Epoch: 0001/0003 | Batch 0750/1082 | Loss: 0.0002
+Epoch: 0001/0003 | Batch 0800/1082 | Loss: 0.0001
+Epoch: 0001/0003 | Batch 0850/1082 | Loss: 0.0063
+Epoch: 0001/0003 | Batch 0900/1082 | Loss: 0.0004
+Epoch: 0001/0003 | Batch 0950/1082 | Loss: 0.0209
+Epoch: 0001/0003 | Batch 1000/1082 | Loss: 0.0033
+Epoch: 0001/0003 | Batch 1050/1082 | Loss: 0.0000
+Epoch: 0001/0003 | Training Loss: 0.0133 | No validation step in this epoch.
+Time elapsed: 10.22 min
+Epoch: 0002/0003 | Batch 0000/1082 | Loss: 0.0009
+Epoch: 0002/0003 | Batch 0050/1082 | Loss: 0.0002
+Epoch: 0002/0003 | Batch 0100/1082 | Loss: 0.0001
+Epoch: 0002/0003 | Batch 0150/1082 | Loss: 0.0007
+Epoch: 0002/0003 | Batch 0200/1082 | Loss: 0.0238
+Epoch: 0002/0003 | Batch 0250/1082 | Loss: 0.0016
+Epoch: 0002/0003 | Batch 0300/1082 | Loss: 0.0001
+Epoch: 0002/0003 | Batch 0350/1082 | Loss: 0.0000
+Epoch: 0002/0003 | Batch 0400/1082 | Loss: 0.0000
+Epoch: 0002/0003 | Batch 0450/1082 | Loss: 0.0000
+Epoch: 0002/0003 | Batch 0500/1082 | Loss: 0.0260
+Epoch: 0002/0003 | Batch 0550/1082 | Loss: 0.0007
+Epoch: 0002/0003 | Batch 0600/1082 | Loss: 0.0001
+Epoch: 0002/0003 | Batch 0650/1082 | Loss: 0.0000
+Epoch: 0002/0003 | Batch 0700/1082 | Loss: 0.0080
+Epoch: 0002/0003 | Batch 0750/1082 | Loss: 0.0002
+Epoch: 0002/0003 | Batch 0800/1082 | Loss: 0.0001
+Epoch: 0002/0003 | Batch 0850/1082 | Loss: 0.0001
+Epoch: 0002/0003 | Batch 0900/1082 | Loss: 0.0002
+Epoch: 0002/0003 | Batch 0950/1082 | Loss: 0.0000
+Epoch: 0002/0003 | Batch 1000/1082 | Loss: 0.0000
+Epoch: 0002/0003 | Batch 1050/1082 | Loss: 0.0000
+Epoch: 0002/0003 | Training Loss: 0.0028 | No validation step in this epoch.
+Time elapsed: 20.45 min
+Epoch: 0003/0003 | Batch 0000/1082 | Loss: 0.0001
+Epoch: 0003/0003 | Batch 0050/1082 | Loss: 0.0000
+Epoch: 0003/0003 | Batch 0100/1082 | Loss: 0.0000
+Epoch: 0003/0003 | Batch 0150/1082 | Loss: 0.0000
+Epoch: 0003/0003 | Batch 0200/1082 | Loss: 0.0000
+Epoch: 0003/0003 | Batch 0250/1082 | Loss: 0.0000
+Epoch: 0003/0003 | Batch 0300/1082 | Loss: 0.0000
+Epoch: 0003/0003 | Batch 0350/1082 | Loss: 0.0001
+Epoch: 0003/0003 | Batch 0400/1082 | Loss: 0.0000
+Epoch: 0003/0003 | Batch 0450/1082 | Loss: 0.0001
+Epoch: 0003/0003 | Batch 0500/1082 | Loss: 0.0005
+Epoch: 0003/0003 | Batch 0550/1082 | Loss: 0.0000
+Epoch: 0003/0003 | Batch 0600/1082 | Loss: 0.0000
+Epoch: 0003/0003 | Batch 0650/1082 | Loss: 0.0000
+Epoch: 0003/0003 | Batch 0700/1082 | Loss: 0.0000
+Epoch: 0003/0003 | Batch 0750/1082 | Loss: 0.0002
+Epoch: 0003/0003 | Batch 0800/1082 | Loss: 0.0000
+Epoch: 0003/0003 | Batch 0850/1082 | Loss: 0.0000
+Epoch: 0003/0003 | Batch 0900/1082 | Loss: 0.0019
+Epoch: 0003/0003 | Batch 0950/1082 | Loss: 0.0000
+Epoch: 0003/0003 | Batch 1000/1082 | Loss: 0.0002
+Epoch: 0003/0003 | Batch 1050/1082 | Loss: 0.0022
+Epoch: 0003/0003 | Training Loss: 0.0023 | No validation step in this epoch.
+Time elapsed: 30.70 min
+Total Training Time: 30.70 min
+Test Accuracy: 99.86704%
+Precision: 0.99867
+Recall: 0.99867
+F1-Score: 0.99867
+AUC-ROC: 0.99867
+Average Loss: 0.0086
+Cross-validation completed. Results: [{'accuracy': 0.9991907514450867, 'precision': np.float64(0.9991911750697762), 'recall': np.float64(0.9991907514450867), 'f1_score': np.float64(0.9991907495847615), 'auc_roc': np.float64(0.9991886500175305), 'loss': 0.0029817869447124326}, {'accuracy': 0.9985549132947977, 'precision': np.float64(0.998556049676267), 'recall': np.float64(0.9985549132947977), 'f1_score': np.float64(0.9985549176259261), 'auc_roc': np.float64(0.9985584426708828), 'loss': 0.0058572685561742175}, {'accuracy': 0.9890751445086705, 'precision': np.float64(0.989309647369302), 'recall': np.float64(0.9890751445086705), 'f1_score': np.float64(0.9890743096904582), 'auc_roc': np.float64(0.9891179180101336), 'loss': 0.031683197085628785}, {'accuracy': 0.9984393063583815, 'precision': np.float64(0.9984394802092947), 'recall': np.float64(0.9984393063583815), 'f1_score': np.float64(0.9984393098784868), 'auc_roc': np.float64(0.9984415431663138), 'loss': 0.005421744644722636}, {'accuracy': 0.99867044337823, 'precision': np.float64(0.9986705967800293), 'recall': np.float64(0.99867044337823), 'f1_score': np.float64(0.9986704366229624), 'auc_roc': np.float64(0.9986650488357633), 'loss': 0.008621156182013064}]

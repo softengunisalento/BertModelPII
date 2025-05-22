@@ -1,0 +1,6 @@
+Test Accuracy: 99.24015%
+Precision: 0.99262
+Recall: 0.99240
+F1-Score: 0.99244
+AUC-ROC: 0.99995
+Average Loss: 0.0204
