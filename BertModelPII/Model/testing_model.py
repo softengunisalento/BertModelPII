@@ -1,8 +1,8 @@
 import torch
 import pandas as pd
-from DataHandler import DataHandler
-from PIIDataLoader import PIIDataLoader
-from BertModelTrainer import BertModelTrainer
+from data_handler import DataHandler
+from pii_data_loader import PIIDataLoader
+from bert_model_trainer import BertModelTrainer
 
 def load_and_evaluate_model(model_path, optimizer_path, dataset_path):
     DEVICE = torch.device('cuda:0' if torch.cuda.is_available() else 'cpu')
