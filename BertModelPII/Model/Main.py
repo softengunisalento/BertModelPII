@@ -1,7 +1,7 @@
 import torch
-from DataHandler import DataHandler
-from PIIDataLoader import PIIDataLoader
-from BertModelTrainer import BertModelTrainer
+from data_handler import DataHandler
+from pii_data_loader import PIIDataLoader
+from bert_model_trainer import BertModelTrainer
 
 def training_test_validation(NUM_EPOCH):
     torch.backends.cudnn.deterministic = True
@@ -11,7 +11,7 @@ def training_test_validation(NUM_EPOCH):
     NUM_EPOCHS = NUM_EPOCH 
 
     # Load and preprocess data
-    dataset_path = 'training_dataset.csv'
+    dataset_path = 'data/training_dataset.csv'
 
     data_handler = DataHandler(dataset_path)
     data_handler.load_data()
@@ -40,7 +40,7 @@ def KFold_training(N_SPLIT,NUM_EPOCH):
     
     NUM_EPOCHS = NUM_EPOCH
     N_SPLITS = N_SPLIT
-    dataset_path = 'training_dataset.csv'
+    dataset_path = 'data/training_dataset.csv'
     data_handler = DataHandler(dataset_path, n_splits=N_SPLITS)
     data_handler.load_data()
     data_handler.clean_data()
@@ -76,7 +76,7 @@ def Stratified_kfold_training(N_SPLIT, NUM_EPOCH):
     
     NUM_EPOCHS = NUM_EPOCH
     N_SPLITS = N_SPLIT
-    dataset_path = 'training_dataset.csv'
+    dataset_path = 'data/training_dataset.csv'
     data_handler = DataHandler(dataset_path, n_splits=N_SPLITS)
     data_handler.load_data()
     data_handler.clean_data()
