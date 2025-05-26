@@ -30,7 +30,7 @@ def load_and_evaluate_model(model_path, optimizer_path, dataset_path):
 
 model_path = 'Checkpoint/bert_model_Strfold_5.pt'
 optimizer_path = 'Checkpoint/optimizer_Strfold_5.pt'
-dataset_path = 'testing_dataset.csv' 
+dataset_path = 'data/testing_dataset.csv' 
 load_and_evaluate_model(model_path, optimizer_path, dataset_path)
 
 
