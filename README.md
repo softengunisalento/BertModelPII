@@ -17,7 +17,7 @@ This project provides a toolkit for training and evaluating BERT-based models fo
 
 1. Clone this repository:
    bash
-   git clone https://github.com/yourusername/bert-pii-detection.git
+   git clone https://github.com/softengunisalento/BertModelPII.git
    cd bert-pii-detection
    
 
