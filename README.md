@@ -11,72 +11,92 @@ This project provides a toolkit for training and evaluating BERT-based models fo
   - Stratified k-fold cross-validation
 - Comprehensive evaluation metrics including accuracy, precision, recall, F1-score
 - Visualization of training metrics
-- Model saving and loading functionality
 
 ## Installation
 
-1. Clone this repository:
-   bash
-   git clone https://github.com/softengunisalento/BertModelPII.git
-   cd bert-pii-detection
-   
+Clone this repository:
+```bash
+git clone https://github.com/softengunisalento/BertModelPII.git
+cd BertModelPII
+```
 
-2. Install the required dependencies:
-   bash
-   pip install -r requirements.txt
-   
+Create a venv and activate it:
+```bash
+python3 -m venv .env
+source .env/bin/activate
+```
+> To deactivate the venv use the `deactivate` command in the terminal
+
+Install the required dependencies:
+
+```bash
+pip3 install -r requirements.txt
+```
 
 ## Usage
 
 ### Training and Evaluation
 
-1. Prepare your dataset in CSV format with 'Sentence' and 'Label' columns.
+To train BERT model:
+```bash
+cd models
+python3 training.py 
+```
 
-2. Run one of the training scripts:
+this will run one between:
 
-   - Standard train-validation-test split:
-     python
-     python Main.py
-     
+- Standard train-validation-test split:
+```bash
+python3 training.py --standard
+```
 
-   - K-fold cross-validation:
-     python
-     python Main.py  # Uncomment KFold_training(5,3) in Main.py
-     
+- K-fold cross-validation:
+```bash
+python3 training.py --kfold
+```
 
-   - Stratified k-fold cross-validation:
-     python
-     python Main.py  # Uncomment Stratified_kfold_training(5,3) in Main.py
-     
+- Stratified k-fold cross-validation:
+```bash
+python3 training.py --strkfold
+```
+
+> Note that u can change the number of splits and epochs using the flags:
+> - splits number: default = 5
+> - epochs number: default = 3
+> 
+> example with default parameters:
+> ```bash
+> python3 training.py -b
+> ```
+> 
+> example with changed parameters:
+> ```bash
+> python3 training.py -b -e 5 -n 8 --dataset datasets/prova.py
+> ```
 
 ### Testing a Saved Model
 
 To evaluate a saved model on a test dataset:
-python
-python testing_model.py
-
+```bash
+python3 testing.py --results_path "" --model_path "" --dataset_path "" --optimizer_path ""
+```
 
 ## File Structure
 
-
-bert-pii-detection/
-├── data/                    # Directory for training data
+BertModelPII/
+├── custom_libs/                # Custom functions
+│   ├── bert_model_trainer.py   # BERT model training and evaluation
+│   ├── data_handler.py         # Data loading and preprocessing
+│   └── pii_data_loader.py      # Data loader for PII detection
+├── datasets/                   # Directory for datasets
+│   ├── testing_dataset.csv
 │   └── training_dataset.csv
-├── Checkpoint/              # Directory for saved models
-├── bert_model_trainer.py    # BERT model training and evaluation
-├── data_handler.py          # Data loading and preprocessing
-├── Main.py                  # Main training scripts
-├── pii_data_loader.py       # Data loader for PII detection
-├── requirements.txt         # Python dependencies
-└── testing_model.py         # Script for testing saved models
-
-
-## Contribution Guidelines
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a new branch for your feature or bugfix
-3. Commit your changes
-4. Push to the branch
-5. Submit a pull request
+├── docs/                       # Directory for thesis and paper pdfs
+├── thesis_results/             # Directory for "right" results
+│   ├── testing/
+│   │   └── ...
+│   └── training
+│       └── ...
+├── requirements.txt            # Python dependencies
+├── testing.py                  # Script for testing saved models
+└── training.py                 # Main training scripts
