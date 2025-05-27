@@ -83,6 +83,7 @@ python3 testing.py --results_path "" --model_path "" --dataset_path "" --optimiz
 
 ## File Structure
 
+```
 BertModelPII/
 ├── custom_libs/                # Custom functions
 │   ├── bert_model_trainer.py   # BERT model training and evaluation
@@ -100,3 +101,4 @@ BertModelPII/
 ├── requirements.txt            # Python dependencies
 ├── testing.py                  # Script for testing saved models
 └── training.py                 # Main training scripts
+```
