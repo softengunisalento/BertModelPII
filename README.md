@@ -93,11 +93,6 @@ BertModelPII/
 │   ├── testing_dataset.csv
 │   └── training_dataset.csv
 ├── docs/                       # Directory for thesis and paper pdfs
-├── thesis_results/             # Directory for "right" results
-│   ├── testing/
-│   │   └── ...
-│   └── training
-│       └── ...
 ├── requirements.txt            # Python dependencies
 ├── testing.py                  # Script for testing saved models
 └── training.py                 # Main training scripts
