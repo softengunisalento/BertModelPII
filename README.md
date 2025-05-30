@@ -39,7 +39,6 @@ pip3 install -r requirements.txt
 
 To train BERT model:
 ```bash
-cd models
 python3 training.py 
 ```
 
